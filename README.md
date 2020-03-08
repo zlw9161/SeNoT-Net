@@ -37,7 +37,9 @@ This operation is modified from the CPNet in https://github.com/xingyul/cpnet.
 ### 6. Train/test the model:
 Use ./train.py and ./test.py to train and test the model.
 
-### 7. Related Projects
+### 7. References
+* <a href="https://ieeexplore.ieee.org/document/8960462" target="_blank">Pyramidal Temporal Pooling With Discriminative Mapping for Audio Classification
+</a> by Zhang et al. (IEEE Trans. ASLP). Code and data released in <a href="https://github.com/zlw9161/PyramidalTemporalPooling">GitHub</a>.
 * <a href="http://arxiv.org/abs/1905.07853" target="_blank">Learning Video Representations from Correspondence Proposals
 </a> by Liu et al. (CVPR 2019). Code and data released in <a href="https://github.com/xingyul/cpnet">GitHub</a>.
 * <a href="http://stanford.edu/~rqi/pointnet" target="_blank">PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation</a> by Qi et al. (CVPR 2017 Oral Presentation). Code and data released in <a href="https://github.com/charlesq34/pointnet">GitHub</a>.
