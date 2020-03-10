@@ -6,7 +6,7 @@ If you find our work useful in your research, please cite:
         @article{Zhang:2020:senot-net,
           title={Learning temporal relations from semantic neighbors for Acoustic Scene Classification},
           author={Liwen Zhang, Jiqing Han and Ziqiang Shi},
-          journal={ready for submitting},
+          journal={submitted to IEEE Signal Processing Letters on Mar. 10, 2020},
           year={2020}
         }
 
